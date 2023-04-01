@@ -1,0 +1,48 @@
+body{
+    background-image: url("background.jpg");
+    background-position: cover;
+}
+.bedr{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius: 20px;
+    background-color: white;
+}
+.desk{
+    padding-left:60px;
+    padding-right:60px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius: 20px;
+    background-color: white;
+}
+.tv_ac{
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius: 20px;
+    background-color: white;
+}
+.bottle{
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fruitb{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius: 20px;
+    background-color: white;
+}
+h1{
+    color: deeppink;
+    background-color: white;
+}
